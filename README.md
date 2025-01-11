@@ -14,7 +14,7 @@ Welcome to my personal portfolio! This website showcases my professional experie
 ## How to View the Website
 
 You can view the live version of my portfolio website at:
-[[https://GIGATECH832065.github.io/portfolio]
+[https://GIGATECH832065.github.io/portfolio]
 
 Simply navigate through the pages to explore more about my journey and skills.
 
